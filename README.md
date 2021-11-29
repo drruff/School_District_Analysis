@@ -16,8 +16,8 @@ School board expected academic dishonesty amongst Thomas High School's 9th grade
 
 - How is the district summary affected?
   - Looking at the below pictures you can see that removing Thomas High School's 9th grade has reduced the average scores across the board. Which implies higher grades in Thomas High School's 9th grade than the average.
-  - [District Summary first analysis](District_summary_first.PNG)
-  - [District Summary second analysis](District_summary_second.PNG)
+  - [District Summary first analysis](https://github.com/drruff/School_District_Analysis/blob/main/Resources/District_summary_first.PNG)
+  - [District Summary second analysis](https://github.com/drruff/School_District_Analysis/blob/main/Resources/District_summary_second.PNG)
 - How is the school summary affected?
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 - How does replacing the ninth-grade scores affect the following:
